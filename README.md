@@ -1,2 +1,5 @@
-# an-example-repo
-An example repository for demonstration
+# This repository is an example
+
+This is a paragraph in my .md
+
+'code block'
