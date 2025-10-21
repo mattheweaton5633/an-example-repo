@@ -2,4 +2,4 @@
 
 This is a paragraph in my .md
 
-'code block'
+`code block`
